@@ -91,10 +91,10 @@ kurzy.cz#$#abort-on-property-write s_back
 ||ronnie.cz/cache/bannery/
 ||sauto.cz/*/v1/xhr
 ||sbazar.cz/*/v1/xhr
-||seznam.cz/*a_durl=
-||seznam.cz/*ad_url=
-||seznam.cz/*adu_rl=
-||seznam.cz/*adur_l=
+||seznam.cz/*a_durl
+||seznam.cz/*ad_url
+||seznam.cz/*adu_rl
+||seznam.cz/*adur_l
 ||sktorrent.eu/torrent/interstitial.js
 ||ssp.seznam.cz^
 ||stat.novinky.cz^
