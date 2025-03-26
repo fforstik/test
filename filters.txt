@@ -95,6 +95,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||seznam.cz/*ad_url
 ||seznam.cz/*adu_rl
 ||seznam.cz/*adur_l
+||novinky.cz^
 ||sktorrent.eu/torrent/interstitial.js
 ||ssp.seznam.cz^
 ||stat.novinky.cz^
