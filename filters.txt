@@ -27,6 +27,7 @@
 /push-ads.
 /reklama_
 /reklamne-
+portal.azure.com
 !
 ! ---------- Czech 1st party blocking rules ---------- !
 !
