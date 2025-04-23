@@ -31,8 +31,8 @@
 ! ---------- Czech 1st party blocking rules ---------- !
 !
 ||*.war-forum.net/images/sh/
-||portal.azure.com
-||https://login.microsoftonline.com/
+||portal.azure.com^
+||https://login.microsoftonline.com/*
 ||1gr.cz/js/uni/oldback/logo.png$script,domain=idnes.cz
 ||1.im.cz/ad/$image
 ||1.im.cz/ad/gemius.js
